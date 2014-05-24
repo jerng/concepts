@@ -1,0 +1,49 @@
+div#demo > a > div, /* 0.ctp */
+div#demo  > div /* >0.ctp */
+{
+  float:left;
+  width:42%;
+  padding: 2%;
+  border-width: 1%;
+  border-style: solid;
+  border-color: #eee;
+  border-radius: 15px;
+  box-shadow: 10px 10px 5px #888;
+  opacity:0.5;
+  -webkit-transition: opacity 0.3s ease-out, box-shadow 0.5s ease-out;
+}
+
+div#demo  > a > div:hover,
+div#demo  > div:hover
+{
+  opacity:1;
+  box-shadow: 8px 8px 4px #888;
+}
+
+div#demo  > a > div > h2
+{
+  text-align:center;
+  font-family:Ubuntu;
+}
+
+div#demo  > a:first-child > div,
+div#demo  > a:first-child > div > h2
+{
+  background-color:#fcc;
+}
+
+div#demo  > a:nth-child(2) > div,
+div#demo  > a:nth-child(2) > div > h2
+{
+  background-color:#ccf;
+}
+
+div#demo h4 
+{
+  padding-left:30px;
+}
+
+div#demo textarea 
+{
+  font-size: 14px;
+}
