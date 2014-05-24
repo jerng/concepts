@@ -69,5 +69,6 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s ' . $cakeDescription, Configure::vers
 		</div>
 	</div>
 	<?php echo $this->element('sql_dump'); ?>
+
 </body>
 </html>
