@@ -36,9 +36,7 @@
 	<h3><?php echo __('Actions'); ?></h3>
 	<ul>
 		<li><?php echo $this->Html->link(__('New Problem'), array('action' => 'add')); ?></li>
-		<li><?php echo $this->Html->link(__('List Problem Tags'), array('controller' => 'problem_tags', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Problem Tag'), array('controller' => 'problem_tags', 'action' => 'add')); ?> </li>
-		<li><?php echo $this->Html->link(__('List Users'), array('controller' => 'users', 'action' => 'index')); ?> </li>
-		<li><?php echo $this->Html->link(__('New Users'), array('controller' => 'users', 'action' => 'add')); ?> </li>
+		<li><?php echo $this->Html->link(__('List Emotions'), array('controller' => 'emotions', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New Emotion'), array('controller' => 'emotions', 'action' => 'add')); ?> </li>
 	</ul>
 </div>

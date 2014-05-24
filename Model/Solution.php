@@ -2,9 +2,9 @@
 
 App::uses('AppModel', 'Model');
 
-class Problem extends AppModel {
+class Solution extends AppModel {
   
-  public $name = 'Problem';
+  public $name = 'Solution';
   public $hasAndBelongsToMany = array
   (
     'Emotion'

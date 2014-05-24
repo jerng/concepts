@@ -42,7 +42,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s ' . $cakeDescription, Configure::vers
 			<h1><?php echo  $this->Html->link
                       (
                         'Motive &trade; : <span style="opacity:0.3;">take any desire, and get it sorted.</span>',
-                        array('controller'=>'users'),
+                        array('controller'=>'users','action'=>'index'),
                         array('escape'=>false)
                       );
 
