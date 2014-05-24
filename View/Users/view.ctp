@@ -22,6 +22,14 @@
 			&nbsp;
 		</dd>
 	</dl>
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=<?php 
+
+echo urlencode($user['User']['lat'].','.$user['User']['long']);
+
+?>&key=AIzaSyB8ZTCRX28uWdGA6V9_7ThkPZjYfNS5OJg&zoom=10"></iframe>
+
+
 </div>
 <div class="actions">
 	<h3><?php echo __('Actions'); ?></h3>

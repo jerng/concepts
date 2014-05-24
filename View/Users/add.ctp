@@ -26,9 +26,13 @@
 
     function showLocation(position) 
     {
-       document.getElementById('UserLat').value = position.coords.latitude
-       document.getElementById('UserLong').value = position.coords.longitude
 
+      // more interesting data for the demo
+      var fuzzLat = Math.random() - 0.5
+      var fuzzLong = Math.random() - 0.5
+
+      document.getElementById('UserLat').value = position.coords.latitude + fuzzLat
+      document.getElementById('UserLong').value = position.coords.longitude + fuzzLong
     }
     
     function showError(error) 

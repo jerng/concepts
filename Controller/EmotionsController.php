@@ -2,7 +2,7 @@
 
 App::uses('AppController', 'Controller');
 
-class ProblemTagsController extends AppController {
+class EmotionsController extends AppController {
   
 	public $scaffold;
    

@@ -31,4 +31,37 @@ App::uses('Controller', 'Controller');
  * @link		http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
+
+  // utility function
+  /*
+
+  public $uses = array('Problem','Emotion');
+  
+  function beforeFilter() 
+  {
+    $emotions_problems = $this->Emotion->find('list',array('fields'=>array('id','problem_id')));
+    
+    $to_save = array();
+
+    foreach ($emotions_problems as $emotion_id => $problem_id)
+    {
+      $to_save[] = array
+      (
+        'Emotion' => array
+        ( 
+          'id' => $emotion_id
+        ),
+        'Problem' => array
+        (
+          'id' => $problem_id
+        )
+      );
+    }
+
+    debug($to_save);
+    $this->Problem->saveMany($to_save, array('deep'=>true));
+    die();
+  }
+
+  //*/
 }

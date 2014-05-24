@@ -24,8 +24,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s ' . $cakeDescription, Configure::vers
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php echo $cakeDescription ?>:
-		<?php echo $title_for_layout; ?>
+		<?php echo 'Motive &trade;'//$title_for_layout; ?>
 	</title>
 	<?php
 		echo $this->Html->meta('icon');
@@ -42,7 +41,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s ' . $cakeDescription, Configure::vers
 		<div id="header">
 			<h1><?php echo  $this->Html->link
                       (
-                        'Motive &trade;',
+                        'Motive &trade; : <span style="opacity:0.3;">take any desire, and get it sorted.</span>',
                         array('controller'=>'users'),
                         array('escape'=>false)
                       );
