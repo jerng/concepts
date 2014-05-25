@@ -24,7 +24,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s ' . $cakeDescription, Configure::vers
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php echo 'Motive &trade;'//$title_for_layout; ?>
+		<?php echo 'Motive &trade; Platform + API'//$title_for_layout; ?>
 	</title>
 	<?php
 		echo $this->Html->meta('icon');

@@ -7,7 +7,7 @@
     <h3>What's on your mind?</h3>
     <textarea></textarea>
     <div class="actions">
-      <?php echo $this->Html->link('Proceed',array('controller'=>'pages','action'=>'2')); ?>
+      <?php echo $this->Html->link('Proceed',array('controller'=>'demos','action'=>'c')); ?>
     </div>
   </div>
   <div>

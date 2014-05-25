@@ -5,7 +5,7 @@
     </div>
   </a>
 
-  <a href="<?php echo $this->Html->url(array('controller'=>'pages','action'=>'1')); ?>">  
+  <a href="<?php echo $this->Html->url(array('controller'=>'demos','action'=>'b')); ?>">  
     <div>
       <h2>Demo</h2>
     </div>
