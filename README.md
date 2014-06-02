@@ -6,7 +6,7 @@ Another Open Source Artificial Intelligence Kernel
 Current Status
 ==============
 
-Back of napkin architectural drafts.
+Back of napkin architectural [drafts](http://htmlpreview.github.io/?https://github.com/jerng/jenaime/blob/master/docs/pseudocode.html). (Click the link to view this repository's pseudocode via github.io.)
 
 Motivations 
 ===========
