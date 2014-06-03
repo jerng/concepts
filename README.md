@@ -1,7 +1,9 @@
 Jenaime 
 =======
 
-Another Open Source Artificial Intelligence Kernel
+A reference model for Artificial Intelligence development.
+
+The idea is to establish an open sourced kernel and design patterns for folks to use, in learning, and producing android minds. 
 
 Current Status
 ==============
