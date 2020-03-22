@@ -1,16 +1,18 @@
-Jenaime 
+Project: Jenaime 
 =======
+
+[https://http://jerng.github.io/jenaime/pseudocode.html](http://jerng.github.io/jenaime/pseudocode.html)
 
 A reference model for Artificial Intelligence development.
 
 The idea is to establish an open sourced kernel and design patterns for folks to use, in learning, and producing android minds.  
 
-Current Status
+Project: Current Status
 ==============
 
 Back of napkin architectural [drafts](http://htmlpreview.github.io/?https://github.com/jerng/jenaime/blob/master/docs/pseudocode.html). (Click the link to view this repository's pseudocode via github.io.)
 
-Motivations 
+Project: Motivations 
 ===========
 
 (Seriously, who cares? But anyway...)
