@@ -31,8 +31,8 @@ We'll find out later if I did this the right way, I suppose.
 
 ### Inspirations
 
-Well, those of you who know about my business will know why how I can make use
-of this character. I do not believe there are limits to my speech about it.
+Well, those of you who know about my business will know why and how I can make
+use of this character. I do not believe there are limits to my speech about it.
 
 A few years ago, one of my staff told me she was a potato. I understood it to
 mean that she didn't want to take on much responsibility about whatever we were
