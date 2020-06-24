@@ -10,7 +10,7 @@ An open-sourced fictional character.
 
 This is perfection.
 
-Also notice that until there is some sort of DCMA takedown, I can talk about the
+Also notice that until there is some sort of DMCA takedown, I can talk about the
 Supo Crew on social media. So one of the first orders of business about this
 idea was to get it pushed to GitHub under an open-source license of some sort.
 We'll find out later if I did this the right way, I suppose.
