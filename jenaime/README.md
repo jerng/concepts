@@ -1,16 +1,11 @@
 Project: Jenaime 
 =======
 
-[https://http://jerng.github.io/jenaime/pseudocode.html](http://jerng.github.io/jenaime/pseudocode.html)
+[Fancy D3 Pseudocode](https://jerng.github.io/concepts/docs/jenaime/pseudocode.html)
 
 A reference model for Artificial Intelligence development.
 
 The idea is to establish an open sourced kernel and design patterns for folks to use, in learning, and producing android minds.  
-
-Project: Current Status
-==============
-
-Back of napkin architectural [drafts](http://htmlpreview.github.io/?https://github.com/jerng/jenaime/blob/master/docs/pseudocode.html). (Click the link to view this repository's pseudocode via github.io.)
 
 Project: Motivations 
 ===========
